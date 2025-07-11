@@ -82,3 +82,4 @@ Aplikasi Anda menggunakan beberapa animasi untuk meningkatkan pengalaman penggun
 
 - Animasi Pergantian AppBar: Terdapat transisi fade dan slide saat AppBar berubah dari tampilan normal ke tampilan pencarian.
 
+- assets/fitur.png
