@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "fullName": "Administrator"
+    },
+    {
+      "id": "1751443414995",
+      "username": "kews",
+      "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+      "fullName": "kews"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "jbl tour one m2 wireless over-ear noise cancelling headphones",
+      "price": 3500000,
+      "images": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7qul2-ljw4jxq27f3e57?q=80&w=2070&auto=format&fit=crop",
+        "https://down-id.img.susercontent.com/file/id-11134207-7qukw-lg35bxl2ojvs5b?q=80&w=2070&auto=format&fit=crop",
+        "https://down-ph.img.susercontent.com/file/ph-11134207-7rase-madmz6y0o0z6ca?q=80&w=2070&auto=format&fit=crop"
+      ],
+      "category": "Headphone",
+      "rating": {
+        "rate": 4.7,
+        "count": 2500
+      }
+    },
+    {
+      "id": "3",
+      "name": "Robotic Vacuum Cleaner",
+      "price": 4200000,
+      "images": [
+        "https://images.unsplash.com/photo-1620757733224-3a9547d6a2f8?q=80&w=1932&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1565538873293-17e999499933?q=80&w=1935&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1604245484888-013143c68194?q=80&w=1943&auto=format&fit=crop"
+      ],
+      "category": "Vacuum",
+      "rating": {
+        "rate": 4.6,
+        "count": 950
+      }
+    },
+    {
+      "id": "4",
+      "name": "Smart CCTV Outdoor 360",
+      "price": 850000,
+      "images": [
+        "https://images.unsplash.com/photo-1549562725-b4e6b9636220?q=80&w=2070&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1583344654948-6a7e0257aec3?q=80&w=2070&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1611942255853-488f574b5c71?q=80&w=1974&auto=format&fit=crop"
+      ],
+      "category": "CCTV",
+      "rating": {
+        "rate": 4.5,
+        "count": 780
+      }
+    },
+    {
+      "id": "5",
+      "name": "Portable Bluetooth Speaker",
+      "price": 1200000,
+      "images": [
+        "https://images.unsplash.com/photo-1589100141940-19262b21c456?q=80&w=1964&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1606297314510-85f0c435e076?q=80&w=1964&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1550009158-94ae76552485?q=80&w=1974&auto=format&fit=crop"
+      ],
+      "category": "Speaker",
+      "rating": {
+        "rate": 4.7,
+        "count": 1300
+      }
+    },
+    {
+      "id": "6",
+      "name": "Gaming Laptop Predator",
+      "price": 25000000,
+      "images": [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=2068&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?q=80&w=1974&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1974&auto=format&fit=crop"
+      ],
+      "category": "Laptop",
+      "rating": {
+        "rate": 4.9,
+        "count": 850
+      }
+    },
+    {
+      "id": "7",
+      "name": "4K Smart TV 55 inch",
+      "price": 7800000,
+      "images": [
+        "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=2070&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=2070&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1550989460-0d3a5cc3b06c?q=80&w=2070&auto=format&fit=crop"
+      ],
+      "category": "TV",
+      "rating": {
+        "rate": 4.8,
+        "count": 1100
+      }
+    },
+    {
+      "id": "8",
+      "name": "Professional Drone Kit",
+      "price": 15000000,
+      "images": [
+        "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?q=80&w=1965&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507563019770-928de24a2333?q=80&w=2070&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1574360320894-357597f379f7?q=80&w=1974&auto=format&fit=crop"
+      ],
+      "category": "Drone",
+      "rating": {
+        "rate": 4.7,
+        "count": 450
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "1751954310069",
+      "userId": "gpeHqZCSBTSOhrUE2zsblDirpZ83",
+      "products": [
+        {
+          "id": "4",
+          "name": "Smart CCTV Outdoor 360",
+          "price": 850000,
+          "category": "elektronik",
+          "images": [
+            "https://images.unsplash.com/photo-1549562725-b4e6b9636220?q=80&w=2070&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1583344654948-6a7e0257aec3?q=80&w=2070&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1611942255853-488f574b5c71?q=80&w=1974&auto=format&fit=crop"
+          ],
+          "rating": {
+            "rate": 4.5,
+            "count": 780
+          },
+          "description": null
+        },
+        {
+          "id": "1",
+          "name": "Smartphone Flagship Pro",
+          "price": 12500000,
+          "category": "smartphone",
+          "images": [
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?q=80&w=1974&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1587560699343-6d15b2ac33d3?q=80&w=1974&auto=format&fit=crop"
+          ],
+          "rating": {
+            "rate": 4.8,
+            "count": 1800
+          },
+          "description": null
+        }
+      ],
+      "grandTotal": 13365000,
+      "shippingService": "JNE Reguler",
+      "orderDate": "2025-07-08T12:58:30.070"
+    }
+  ]
+}
